@@ -37,7 +37,7 @@ const Overview = () => {
                     muted
                     playsInline
                 >
-                    <source src="/public/VN20230726_210707(1).mp4" type="video/mp4" />
+                    <source src="/VN20230726_210707(1).mp4" type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
             </motion.div>
