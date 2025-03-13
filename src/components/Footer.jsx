@@ -157,7 +157,7 @@ const Footer = () => {
             <div className="relative max-w-4xl mx-auto z-10">
                 <div className="absolute max-sm:top-15 top-0 left-1/2 max-sm:left-2 transform -translate-x-1/2 -translate-y-1/2 p-2 rounded-full">
                     <img
-                        src="/public/1000019635-removebg-preview.png"
+                        src="/1000019635-removebg-preview.png"
                         alt="React Logo"
                         className="max-sm:w-12 max-sm:h-12 w-25 h-25"
                     />
