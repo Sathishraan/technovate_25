@@ -145,7 +145,7 @@ const NonTechEvents = () => {
                         transition={{ duration: 1.2, delay: 1 }}
                     >
                         <motion.img
-                            src="/public/Screenshot 2025-03-10 at 12.05.44 PM.png"
+                            src="/Screenshot 2025-03-10 at 12.05.44 PM.png"
                             alt="welcome page"
                             className="rounded-4xl max-sm:hidden"
                             whileHover={{ scale: 1.05 }}
