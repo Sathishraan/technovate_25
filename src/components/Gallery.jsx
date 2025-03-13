@@ -5,23 +5,23 @@ import { motion } from "framer-motion";
 
 const imageSets = [
     {
-        images: ["/public/Ita_Gallery/IMG_0180-min.JPG",  "/public/Ita_Gallery/IMG_0710-min.JPG"],
+        images: ["/Ita_Gallery/IMG_0180-min.JPG",  "/Ita_Gallery/IMG_0710-min.JPG"],
 
         description: "A plant that thrives indoors with minimal sunlight.",
         className: "col-span-2 md:h-[400px] max-sm:h-[250px]",
     },
     {
-        images: [" /public/Ita_Gallery/IMG_0357-min.JPG ", "/public/Ita_Gallery/IMG_0199-min.JPG"],
+        images: [" /Ita_Gallery/IMG_0357-min.JPG ", "/Ita_Gallery/IMG_0199-min.JPG"],
 
         className: "h-[400px] max-sm:h-[180px]",
     },
     {
-        images: ["/public/Ita_Gallery/IMG_0346-min.JPG", "/public/Ita_Gallery/IMG_1157-min.JPG"],
+        images: ["/Ita_Gallery/IMG_0346-min.JPG", "/Ita_Gallery/IMG_1157-min.JPG"],
 
         className: "h-[400px] max-sm:h-[180px]",
     },
     {
-        images: ["/public/Ita_Gallery/IMG_0372-min.JPG", "/public/Ita_Gallery/IMG_0518-min.JPG"],
+        images: ["/Ita_Gallery/IMG_0372-min.JPG", "/Ita_Gallery/IMG_0518-min.JPG"],
 
         className: "col-span-2 h-[400px] max-sm:h-[250px]",
     },
